@@ -1,9 +1,9 @@
-# 🚀 Développeur Web Full-Stack SIG
+# 🚀 Développeuse Web Full-Stack SIG
 
 ---
   
-- 🏢 Développeur Full-Stack JS (Angular / NestJS) - SIG  
-- 🎓 Formation : O'Clock - Développeur Web Full-Stack (Spécialisation React)  
+- 🏢 Développeuse Full-Stack JS (Angular / NestJS) - SIG  
+- 🎓 O'Clock - Développeur Web Full-Stack (Spécialisation React)  
 - 📞 Ancien technicien support téléphonique iOS/MacOS (8 ans)
 
 ---
@@ -30,5 +30,5 @@
 
 ---
 
-## ☎️ How to reach me ?
+## ☎️ Contact
 - Linkedin : https://www.linkedin.com/in/manon-bernard-mb/
