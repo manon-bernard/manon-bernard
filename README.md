@@ -1,32 +1,34 @@
-# 👋 Hi there! Welcome to my GitHub
+# 🚀 Développeur Web Full-Stack SIG
 
-I’m Manon, a full-stack web developer.
 ---
-
-## 🔍 About Me
-
-- 💻 Current Work: FullStack JS Web Developer (Angular / NestJS)
-- 💼 Formation: O'Clock - Full-Stack Web Developper (Specialization React)
-- 🛠️ Previously: Phone support technician (IOS/MacOS) for 8 years.
----
-
-## 🛠️ Stack
-- Typescript / Javascript
-- HTML
-- CSS / SCSS
-- Angular 17+
-- Node JS
-- NestJS
-- PostgresSQL
-- React
+  
+- 🏢 Développeur Full-Stack JS (Angular / NestJS) - SIG  
+- 🎓 Formation : O'Clock - Développeur Web Full-Stack (Spécialisation React)  
+- 📞 Ancien technicien support téléphonique iOS/MacOS (8 ans)
 
 ---
 
-## 🔢 Some numbers
-:see_no_evil: Nothing there to see yet...
-Meanwhile, here's some ~~random~~ numbers: 07, 1989, 42, 3.14159265359..., 1.61803398875....
+## 🛠️ Stack Technique  
+
+### 🖥️ Frontend  
+- Langages : HTML, CSS/SCSS, JavaScript, TypeScript  
+- Frameworks : Angular 17+, React  
+- UI/UX : Material Design, Tailwind CSS
+- Gestion d’état : Signals, RxJS  
+
+### ⚙️ Backend  
+- Environnement : Node.js
+- Frameworks : NestJS, Express.js  
+- Base de données : PostgreSQL
+- ORM: TypeORM, Sequelize
+
+### 🌍 SIG (Systèmes d’Information Géographique)  
+- Bibliothèques cartographiques : OpenLayers, Leaflet  
+- Formats et standards de données : GeoJSON
+- Base de données géospatiale : PostgreSQL avec PostGIS  
+- Serveurs et APIs Geo : GeoServer (serveur WMS/WFS)  
 
 ---
+
 ## ☎️ How to reach me ?
 - Linkedin : https://www.linkedin.com/in/manon-bernard-mb/
-- Twitter: https://twitter.com/codecouleur_mb
